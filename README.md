@@ -4,4 +4,4 @@ We would like to build a classification ML algorithm that can take a time series
 
 ## Files:
 
-* Kepler_Exoplanets_Logistic.pdf: a notebook in where a Logistic Regression algorithm was implemented. It achieved a F1 score of 75%
+* Kepler_Exoplanets_Logistic.ipynb: a notebook in where a Logistic Regression algorithm was implemented. It achieved a F1 score of 75%. A .pdf version is included as well.
